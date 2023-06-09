@@ -1,4 +1,5 @@
-dhsi Critical Making Fun
+###DHSI Critical Making Fun
+
 ![Bitsytime](https://knk2023.github.io/DHSI2023/elusivecoffee.gif)
 
 1. Sketches 
