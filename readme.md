@@ -5,12 +5,12 @@ dhsi
   [sketch 2](https://knk2023.github.io/DHSI2023/itsabirdsketch.jpg)
   [sketch 3](https://knk2023.github.io/DHSI2023/titansofindustrysketch.jpg)
 2. [Grids and Gestures (or Cle to YYJ)](https://knk2023.github.io/DHSI2023/CletoYYJ.jpg)
-3. [physical hypertext](https://knk2023.github.io/DHSI2023/Cutuppoetry.jpg)
+3. physical hypertext
 4. Twine
-5. Cut-up Poetry
-6. Tracery
+5. [Cut-up Poetry](https://knk2023.github.io/DHSI2023/Cutuppoetry.jpg)
+6. [Tracery](https://botsin.space/@Knk)
 7. Scalar
-8. P5 Poetics
+8. [P5 Poetics](https://knk2023.github.io/DHSI2023/clickpoetrygenk.html)
 9. [Bitsy](https://knk2023.github.io/DHSI2023/the_elusive_cup_of_coffee%20(1).html)
 10. GitHub Repository
 
